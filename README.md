@@ -3,6 +3,8 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 
+Deployed webiste link: https://oscsa.netlify.app/
+
 This is the official website for Open Science Community Saudi Arabia, which can be found [here](osc-sa.netlify.app/). It's still under construction.
 
 ### TODO
